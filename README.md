@@ -1,2 +1,2 @@
 # temel-vue-spa
-Temel Vue SPA boilerplate
+Temel Vue SPA boilerplate çalışması
